@@ -2,6 +2,7 @@ name: WebSender
 main: tc.yigit.bukkit.BukkitMain
 version: 3.1
 author: yyunusyigit
+folia-supported: true
 commands:
   websender:
     description: Websender reload command.
