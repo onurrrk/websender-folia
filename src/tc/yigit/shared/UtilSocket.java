@@ -25,7 +25,6 @@ public class UtilSocket {
     private static final boolean isFolia;
 
 
-
     static {
 
         boolean foliaFound = false;
